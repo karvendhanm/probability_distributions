@@ -16,7 +16,10 @@ There should be no necessary libraries to run the code here beyond the libraries
 1. math
 2. matplotlib
 
-    As this package has been uploaded in PyPi(python repository), you could just install this package by typing                          `pip install prob_distributions' just as you would install any other python package.
+    As this package has been uploaded in PyPi(python repository), you could just install this package just as you would 
+install any other python package by typing 
+
+                    `pip install prob_distributions`
 
 ## Project Motivation<a name="motivation"></a>
 
