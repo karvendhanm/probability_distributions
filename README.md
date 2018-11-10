@@ -16,6 +16,8 @@ There should be no necessary libraries to run the code here beyond the libraries
 1. math
 2. matplotlib
 
+    As this package has been uploaded in PyPi(python repository), you could just install this package by typing                          `pip install prob_distributions' just as you would install any other python package.
+
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was interested in calculating and visualizing Binomial and Gaussian distributions.
